@@ -65,12 +65,12 @@
     "wsextservice": "local_mobile",
     "demo_sites": {
         "student": {
-            "url": "https:\/\/school.moodledemo.net",
+            "url": "https:\/\/diversasia-accessible-he.eu/elearning",
             "username": "student",
             "password": "moodle"
         },
         "teacher": {
-            "url": "https:\/\/school.moodledemo.net",
+            "url": "https:\/\/diversasia-accessible-he.eu/elearning",
             "username": "teacher",
             "password": "moodle"
         }
@@ -81,8 +81,8 @@
         "high": 120
     },
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "https:\/\/diversasia-accessible-he.eu/elearning",
+    "sitename": "DIVERSASIA",
     "multisitesdisplay": "",
     "sitefindersettings": {},
     "onlyallowlistedsites": false,
